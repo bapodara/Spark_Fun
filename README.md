@@ -1,4 +1,4 @@
-Progrems in this repo uses scala/spark. Following are general instructions to install/run the programs. If any program require special instructions/Please refere to README.md files specific to those programs.
+Programs in this repo use scala/spark. Following are general instructions to install/run the programs. If any program require special instructions/Please refere to README.md files specific to those programs.
 
 * Steps for installing Spark on local desktop
 

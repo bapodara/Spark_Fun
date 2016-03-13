@@ -1,4 +1,4 @@
-The Health Department has developed an inspection report and scoring system. After conducting an inspection of the facility, the Health Inspector calculates a score based on the violations observed. The data is shared by city at: https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores/stya-26eb
+San Francisco Health Department has shared an inspection report and scoring system for resturants in the city. After conducting an inspection of the facility, the Health Inspector calculates a score based on the violations observed. The data is shared by city at: https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores/stya-26eb
 
 * This is scala programs written on top op apache spark to perform following analysis:
 

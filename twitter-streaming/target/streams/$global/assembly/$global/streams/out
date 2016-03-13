@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mIncluding from cache: unused-1.0.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: spark-streaming-twitter_2.10-1.4.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: twitter4j-stream-3.0.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: twitter4j-core-3.0.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-library.jar[0m
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/LICENSE.txt' with strategy 'first'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.spark-project.spark/unused/pom.properties' with strategy 'first'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.spark-project.spark/unused/pom.xml' with strategy 'first'[0m
+[0m[[33mwarn[0m] [0mMerging 'log4j.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'org/apache/spark/unused/UnusedStubClass.class' with strategy 'first'[0m
+[0m[[33mwarn[0m] [0mStrategy 'discard' was applied to 2 files[0m
+[0m[[33mwarn[0m] [0mStrategy 'first' was applied to 4 files[0m
+[0m[[0minfo[0m] [0mAssembly up to date: /Users/sbapodara/Trainings/UCSC/Apache_Spark/Spark_Fun/twitter-streaming/target/scala-2.10/twitter-streaming-assembly-1.0.jar[0m

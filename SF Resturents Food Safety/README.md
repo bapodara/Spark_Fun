@@ -1,6 +1,7 @@
 The Health Department has developed an inspection report and scoring system. After conducting an inspection of the facility, the Health Inspector calculates a score based on the violations observed. The data is shared by city at: https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores/stya-26eb
 
-This is scala programs written on top op apache spark to perform following analysis:
+* This is scala programs written on top op apache spark to perform following analysis:
+
 1. What is the inspection score distribution like? (inspections_plus.csv)
 2. What is the risk category distribution like? (violations_plus.csv)
 3. Which 20 businesses got lowest scores? (inspections_plus.csv, businesses_plus.csv)
